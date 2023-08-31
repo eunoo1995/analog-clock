@@ -22,6 +22,7 @@ npm start
 
 ## GIF
 
-![analog-clock](https://github.com/eunoo1995/analog-clock/assets/95074093/5a285939-0c55-4801-829c-4ab8aefa3e0b)
+![clock](https://github.com/eunoo1995/analog-clock/assets/95074093/8b57cff0-eec0-46b6-a838-1dd70ca44cb4)
+
 
 <br />
