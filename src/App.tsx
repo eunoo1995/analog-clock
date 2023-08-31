@@ -1,7 +1,15 @@
+import { RecoilRoot } from "recoil";
 import "./App.css";
+import AnalogClock from "./components/analogClock";
+import Tooltip from "./components/tooltip";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <RecoilRoot>
+      <AnalogClock />
+      <Tooltip />
+    </RecoilRoot>
+  );
 }
 
 export default App;
